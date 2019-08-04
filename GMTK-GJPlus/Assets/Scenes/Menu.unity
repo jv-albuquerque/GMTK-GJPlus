@@ -5635,7 +5635,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 197}
-  m_SizeDelta: {x: 846.1, y: 211.6}
+  m_SizeDelta: {x: 1700, y: 211.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1307556168
 MonoBehaviour:
@@ -5657,7 +5657,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: Game Title
+  m_text: The Case of Unknown
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e3ffd02ec4849084a813ef65ec2e35d7, type: 2}
   m_sharedMaterial: {fileID: 6275942907265093611, guid: e3ffd02ec4849084a813ef65ec2e35d7,
@@ -5727,10 +5727,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1307556168}
-    characterCount: 10
+    characterCount: 19
     spriteCount: 0
-    spaceCount: 1
-    wordCount: 2
+    spaceCount: 3
+    wordCount: 4
     linkCount: 0
     lineCount: 1
     pageCount: 1
@@ -6714,7 +6714,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.497775, g: 0.8867924, b: 0.5963147, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
